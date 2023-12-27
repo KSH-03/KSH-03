@@ -39,6 +39,9 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 - How to get badge info?
 https://simpleicons.org
+
+- How to use imoji?
+press 'win'+'.'
 --->
 <!---
 KSH-03/KSH-03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
