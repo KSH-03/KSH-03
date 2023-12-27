@@ -1,3 +1,7 @@
+🎓EDUCAION
+====================================
+SKKU Semiconductor System Engineering
+------------------------------------
 - 👋 Hi, I’m @KSH-03
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
