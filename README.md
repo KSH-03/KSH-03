@@ -31,6 +31,8 @@
 > E-mail : kimhyeon03@naver.com
 >
 > Instagram : kimhyeon03
+>
+> GitHub : https://ksh-03.github.io/
 
 ## 🗂️ ETC
 ![KSH-03's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSH-03&include_all_commits=true&show_icons=true&theme=radical&count_private=ture)
