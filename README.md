@@ -1,5 +1,5 @@
 ## 🎓 EDUCATION
-> Sungkyunkwan University | Semiconductor System Engineering | 22.03 ~
+> Sungkyunkwan University | Semi-conductor System Engineering | 22.03 ~
 
 ## 💡 EXPERIENCE
 > C.R.U.D | Academic Software Club | 22.03 ~ 23.12
@@ -21,13 +21,18 @@
 >
 > <img alt="unity" src ="https://img.shields.io/badge/unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/> <img alt="github" src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
-## 🪪 QUALIFICATIONS
+## 📋 QUALIFICATIONS
 > OPIC | IH(Intermediate High) | 23.02.15
 
 ## 🏆 AWARDS
 > coming soon
 
-#
+## 📬 CONTACT
+> E-mail : kimhyeon03@naver.com
+>
+> Instagram : kimhyeon03
+
+## 🗂️ ETC
 ![KSH-03's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSH-03&include_all_commits=true&show_icons=true&theme=radical&count_private=ture)
 
 #
