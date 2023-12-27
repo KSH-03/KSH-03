@@ -1,4 +1,4 @@
-## 🎓 EDUCAION
+## 🎓 EDUCATION
 > Sungkyunkwan University | Semiconductor System Engineering | 22.03 ~
 
 ## 💡 EXPERIENCE
